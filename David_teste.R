@@ -7,3 +7,5 @@ library(ggplot2)
 
 ggplot(df, aes(x, y)) +
 	geom_point()
+
+# Testando esta linha em 06.03.23
